@@ -9,7 +9,6 @@ terraform {
 
 provider "azurerm" {
   features {}
-    subscription_id = ""
 }
 
 # if you need Backend
