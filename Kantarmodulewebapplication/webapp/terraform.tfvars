@@ -1,0 +1,13 @@
+rgname = "proj2"
+location = "centralindia"
+vnet_name = "vnet2"
+subnet_name = "webseb2"
+pvtend_subnet_name = "endsubnet2"
+vnetaddress = ["10.0.0.0/16"]
+subnetaddress = ["10.0.1.0/24"]
+endpsubnetaddress = ["10.0.2.0/24"]
+sg_account_name ="websgsrknrsg476"
+appservice_plan_name ="websgplan1"
+appservice_name = "websgservice1"
+pvtend_name ="sgendname1"
+pvtservice_connection_name ="sgendconnection1"
