@@ -4,7 +4,7 @@
 For Executing :
 
  Webapp path :
-  \Kantarmodulewebapp\webapp
+  \Kantarmodulewebapplication\webapp
 
 Values can be change at below path:
-\Kantarmodulewebapp\webapp\terraform.tfvars
+\Kantarmodulewebapplication\webapp\terraform.tfvars
