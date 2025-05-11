@@ -1,1 +1,10 @@
- hi
+ Project Name : Webapplication 
+     Requirement : Webapplication that accesses a Storage Account using a vnet
+
+For Executing :
+
+ Webapp path :
+  \Kantarmodulewebapp\webapp
+
+Values can be change at below path:
+\Kantarmodulewebapp\webapp\terraform.tfvars
